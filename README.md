@@ -4,7 +4,8 @@ telebot MFTI
 ## Телеграмм-бот  @serggnfbot
 ### Нифантьев Сергей User ID: 50698472 
 ######  [мой телеграмм чат](https://t.me/SergNifant)
-тел +7-9182565930 есть Telegramm WhatsUP Viber  
+тел +7-9182565930 есть Telegramm WhatsUP Viber 
+### [репозиторий части с моделью на другом сервере](https://github.com/SergNif/server)
 
 ###  Общее описание
 Задание состоит из двух частей:
